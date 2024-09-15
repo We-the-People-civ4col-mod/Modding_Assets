@@ -1,0 +1,17 @@
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_SHEPARD</Type>
+			<Button>Art/Buttons/Units/shepardb.dds</Button>
+			<FullLengthIcon>Art/Buttons/Units/shepardCM.dds</FullLengthIcon>
+			<fScale>0.54</fScale>
+			<fInterfaceScale>0.8</fInterfaceScale>
+			<NIF>Art/Units/tradesmen/specialist/shepard_settler2.nif</NIF>
+			<KFM>Art/Units/Settler/Expert_Grapes_Picker/settler_male.kfm</KFM>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<bActAsRanged>0</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop/>
+				<AudioRunTypeEnd/>
+			</AudioRunSounds>
+		</UnitArtInfo>

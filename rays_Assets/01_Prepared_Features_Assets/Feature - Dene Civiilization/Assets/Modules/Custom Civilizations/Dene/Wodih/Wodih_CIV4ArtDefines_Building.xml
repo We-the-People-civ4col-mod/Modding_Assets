@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Wodih_CIV4ArtDefinesSchema.xml">
+	<BuildingArtInfos>
+		<BuildingArtInfo>
+			<Type>ART_DEF_BUILDING_DENE_WODIH</Type>
+			<LSystem>LSYSTEM_3x2</LSystem>
+			<bAnimated>0</bAnimated>
+			<fScale>1.10</fScale>
+			<fInterfaceScale>10.3</fInterfaceScale>
+			<NIF>Modules/Custom Civilizations/Dene/Wodih/SnowWolfDen.nif</NIF>
+			<KFM/>
+			<Button>Modules/Custom Civilizations/Dene/Wodih/Wodih.dds</Button>
+		</BuildingArtInfo>
+	</BuildingArtInfos>
+</Civ4ArtDefines>

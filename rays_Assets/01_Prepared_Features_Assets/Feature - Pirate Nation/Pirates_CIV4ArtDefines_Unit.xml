@@ -1,0 +1,851 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Civ4ArtDefines xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../Schema/Caveman2Cosmos.xsd">
+	<UnitArtInfos>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_PIRATES_ARQUEBUSIER</Type>
+			<Button>Modules/Custom Civilizations/Pirates/Flavor/musketman/arquebus.dds</Button>
+			<fScale>0.44</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<NIF>Modules/Custom Civilizations/Pirates/Flavor/arquebusier/ImperialMusket.nif</NIF>
+			<KFM>Art/Units/musketman/musketman.kfm</KFM>
+			<SHADERNIF>Modules/Custom Civilizations/Pirates/Flavor/arquebusier/ImperialMusket.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>1.0</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.05</fRangedDeathTime>
+			<bActAsRanged>1</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIQUE_UNIT</TrainSound>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_PIRATES_ARCHER</Type>
+			<Button>Modules/Custom Civilizations/Pirates/Flavor/archer/archer.dds</Button>
+			<fScale>0.44</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<NIF>Modules/Custom Civilizations/Pirates/Flavor/archer/archer.nif</NIF>
+			<KFM>Art/Units/archer/archer.kfm</KFM>
+			<SHADERNIF>Modules/Custom Civilizations/Pirates/Flavor/archer/archer.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>0.9</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<bActAsRanged>1</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop/>
+				<AudioRunTypeEnd/>
+			</AudioRunSounds>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_PIRATES_ARSONIST</Type>
+			<Button>Modules/Custom Civilizations/Pirates/Flavor/arsonist/assassin.dds</Button>
+			<fScale>0.44</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<NIF>Modules/Custom Civilizations/Pirates/Flavor/arsonist/scout.nif</NIF>
+			<KFM>Art/Units/scout/scout.kfm</KFM>
+			<SHADERNIF>Modules/Custom Civilizations/Pirates/Flavor/arsonist/scout.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>0.95</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<bActAsRanged>1</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_PIRATES_ASSASSIN</Type>
+			<Button>Art/Interface/Buttons/Units/sparth/assasin.dds</Button>
+			<fScale>0.44</fScale>
+			<fInterfaceScale>0.9</fInterfaceScale>
+			<NIF>Modules/Custom Civilizations/Pirates/Flavor/assassin/japanesesamurai.nif</NIF>
+			<KFM>Art/Units/Unique/Japan/Samurai/JapaneseSamurai.kfm</KFM>
+			<SHADERNIF>Modules/Custom Civilizations/Pirates/Flavor/assassin/japanesesamurai.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>1.0</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_PIRATES_ATLATL</Type>
+			<Button>Art/Interface/Buttons/Units/sparth/atlatl.dds</Button>
+			<fScale>0.44</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>			
+			<NIF>Modules/Custom Civilizations/Pirates/Flavor/atlatl/longbowman.nif</NIF>
+			<KFM>Art/Units/longbowman/longbowman.kfm</KFM>
+			<SHADERNIF>Modules/Custom Civilizations/Pirates/Flavor/atlatl/longbowman.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>1.0</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<bActAsRanged>1</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_PIRATES_AXEMAN</Type>
+			<Button>Modules/Custom Civilizations/Pirates/Flavor/Axeman/axeman.dds</Button>
+			<fScale>0.44</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<NIF>Modules/Custom Civilizations/Pirates/Flavor/Axeman/warrior.nif</NIF>
+			<KFM>Art/Units/Axeman/Axeman.kfm</KFM>
+			<SHADERNIF>Modules/Custom Civilizations/Pirates/Flavor/Axeman/warrior_fx.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>0.9</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<bActAsRanged>0</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop/>
+				<AudioRunTypeEnd/>
+			</AudioRunSounds>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_PIRATES_BELLYBOWMAN</Type>
+			<Button>Art/Interface/Buttons/Units/sparth/bellybowman.dds</Button>
+			<fScale>0.44</fScale>						<fInterfaceScale>1.0</fInterfaceScale>
+			<NIF>Modules/Custom Civilizations/Pirates/Flavor/bellybowman/swordsman.nif</NIF>
+			<KFM>Art/Units/swordsman/swordsman.kfm</KFM>
+			<SHADERNIF>Modules/Custom Civilizations/Pirates/Flavor/bellybowman/swordsman.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>1.0</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<bActAsRanged>1</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_PIRATES_BRUTE</Type>
+			<Button>Modules/Custom Civilizations/Pirates/Flavor/brute/warrior.dds</Button>
+			<fScale>0.44</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<NIF>Modules/Custom Civilizations/Pirates/Flavor/brute/warrior.nif</NIF>
+			<KFM>Art/Units/Warrior/Warrior.kfm</KFM>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>1.0</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_PIRATES_CARAVEL</Type>
+			<Button>Art/Interface/Buttons/Units/sparth/caravel.dds</Button>
+			<fScale>0.20</fScale>
+			<fInterfaceScale>0.7</fInterfaceScale>
+			<NIF>Modules/Custom Civilizations/Pirates/Flavor/Caravel/Caravel.nif</NIF>
+			<KFM>Art/Units/Caravel/Caravel.kfm</KFM>
+			<SHADERNIF>Modules/Custom Civilizations/Pirates/Flavor/Caravel/Caravel_FX.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/CaravelShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>1.0</fShadowScale>
+			</ShadowDef>
+			<iDamageStates>4</iDamageStates>
+			<TrailDefinition>
+				<Texture>Art/Shared/water_ship_wake.dds</Texture>
+				<fWidth>1</fWidth>
+				<fLength>180.0</fLength>
+				<fTaper>1</fTaper>
+				<fFadeStartTime>.2</fFadeStartTime>
+				<fFadeFalloff>0.35</fFadeFalloff>
+			</TrailDefinition>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<bSmoothMove>1</bSmoothMove>
+			<fAngleInterpRate>720.0</fAngleInterpRate>
+			<fBankRate>.4</fBankRate>
+			<fExchangeAngle>25.0</fExchangeAngle>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop>LOOPSTEP_OCEAN2</AudioRunTypeLoop>
+				<AudioRunTypeEnd>ENDSTEP_OCEAN2</AudioRunTypeEnd>
+			</AudioRunSounds>
+			<SelectionSound>AS3D_UN_OCEAN_END1</SelectionSound>
+			<ActionSound>AS3D_UN_OCEAN_END1</ActionSound>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_PIRATES_CHARIOT</Type>
+			<Button>,Art/Interface/Buttons/Units/Chariot.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,5,7</Button>
+			<fScale>0.34</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<NIF>Modules/Custom Civilizations/Pirates/Flavor/chariot/chariot_celtic.nif</NIF>
+			<KFM>Art/Units/Chariot_Celtic/Chariot_Celtic.kfm</KFM>
+			<SHADERNIF>Modules/Custom Civilizations/Pirates/Flavor/chariot/chariot_celtic.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/ChariotShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>1.0</fShadowScale>
+			</ShadowDef>
+			<TrailDefinition>
+				<Texture>Art/Shared/wheeltread.dds</Texture>
+				<fWidth>1.0</fWidth>
+				<fLength>180.0</fLength>
+				<fTaper>0.0</fTaper>
+				<fFadeStartTime>0.2</fFadeStartTime>
+				<fFadeFalloff>0.35</fFadeFalloff>
+			</TrailDefinition>
+			<fBattleDistance>0.20</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<bSmoothMove>1</bSmoothMove>
+			<fAngleInterpRate>360.0</fAngleInterpRate>
+			<fExchangeAngle>-30.0</fExchangeAngle>
+			<bActAsRanged>0</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop>LOOPSTEP_WHEELS</AudioRunTypeLoop>
+				<AudioRunTypeEnd>ENDSTEP_WHEELS</AudioRunTypeEnd>
+			</AudioRunSounds>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_PIRATES_CLUBMAN</Type>
+			<Button>Art/Interface/Buttons/Units/sparth/clubman.dds</Button>
+			<fScale>0.44</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<NIF>Modules/Custom Civilizations/Pirates/Flavor/clubman/criminal.nif</NIF>
+			<KFM>Art/Units/Warrior/Warrior.kfm</KFM>
+			<SHADERNIF>Modules/Custom Civilizations/Pirates/Flavor/clubman/criminal.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>1.0</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_PIRATES_CROSSBOWMAN</Type>
+			<Button>Modules/Custom Civilizations/Pirates/Flavor/crossbowman/crossbowman.dds</Button>
+			<fScale>0.44</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<NIF>Modules/Custom Civilizations/Pirates/Flavor/crossbowman/Crossbowman.nif</NIF>
+			<KFM>Art/Units/Crossbowman/Crossbowman.kfm</KFM>
+			<SHADERNIF>Modules/Custom Civilizations/Pirates/Flavor/crossbowman/Crossbowman.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>0.9</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<bActAsRanged>0</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop/>
+				<AudioRunTypeEnd/>
+			</AudioRunSounds>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_PIRATES_CUTTHROAT</Type>
+			<Button>Modules/Custom Civilizations/Pirates/Flavor/Pirate_Female/pirate_sailor.dds</Button>
+			<fScale>0.44</fScale>
+			<fInterfaceScale>0.9</fInterfaceScale>
+			<NIF>Modules/Custom Civilizations/Pirates/Flavor/Pirate_Female/Sailor.nif</NIF>
+			<KFM>Modules/Custom Civilizations/Pirates/Flavor/Pirate_Female/sailor.kfm</KFM>
+			<SHADERNIF>Modules/Custom Civilizations/Pirates/Flavor/Pirate_Female/Sailor_FX.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>1.0</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_PIRATES_ELEPHANT_RIDER</Type>
+			<Button>Modules/Custom Civilizations/Pirates/Flavor/elephant_rider/giant_tortoise.dds</Button>
+			<fScale>0.24</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<NIF>Modules/Custom Civilizations/Pirates/Flavor/elephant_rider/warelephant_carthage.nif</NIF>
+			<KFM>Modules/Custom Civilizations/Pirates/Flavor/elephant_rider/WarElephant_Carthage.kfm</KFM>
+			<SHADERNIF>Modules/Custom Civilizations/Pirates/Flavor/elephant_rider/warelephant_carthage.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>0.85</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<bActAsRanged>1</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop/>
+				<AudioRunTypeEnd/>
+			</AudioRunSounds>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_PIRATES_GAME_HUNTER</Type>
+			<Button>Modules/Custom Civilizations/Pirates/Flavor/hunter/hunter.dds</Button>
+			<fScale>0.44</fScale>
+			<fInterfaceScale>0.9</fInterfaceScale>
+			<NIF>Modules/Custom Civilizations/Pirates/Flavor/hunter/swordsman.nif</NIF>
+			<KFM>Art/Units/swordsman/swordsman.kfm</KFM>
+			<SHADERNIF>Modules/Custom Civilizations/Pirates/Flavor/hunter/swordsman.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>1.0</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_PIRATES_HEAVY_SWORDSMAN</Type>
+			<Button>Art/Interface/Buttons/Units/sparth/heavy_swordsman.dds</Button>
+			<fScale>0.42</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<NIF>Modules/Custom Civilizations/Pirates/Flavor/Buccaneer/pirate_cutlass/Swordsman2.nif</NIF>
+			<KFM>Art/Units/Swordsman/Swordsman.kfm</KFM>
+			<SHADERNIF>Modules/Custom Civilizations/Pirates/Flavor/Buccaneer/pirate_cutlass/Swordsman2.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/HorseShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>1.0</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_PIRATES_HORSE_ARCHER</Type>
+			<Button>,Art/Interface/Buttons/Units/HorseArcher.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,7,7</Button>
+			<fScale>0.42</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<NIF>Modules/Custom Civilizations/Pirates/Flavor/HorseArcher/HorseArcher.nif</NIF>
+			<KFM>Art/Units/HorseArcher/HorseArcher.kfm</KFM>
+			<SHADERNIF>Modules/Custom Civilizations/Pirates/Flavor/HorseArcher/HorseArcher_FX.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/HorseShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>1.0</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<bActAsRanged>1</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_PIRATES_HUNTER</Type>
+			<Button>Modules/Custom Civilizations/Pirates/Flavor/hunter/hunter.dds</Button>
+			<fScale>0.34</fScale>
+			<fInterfaceScale>0.9</fInterfaceScale>
+			<NIF>Modules/Custom Civilizations/Pirates/Flavor/hunter/swordsman.nif</NIF>
+			<KFM>Art/Units/swordsman/swordsman.kfm</KFM>
+			<SHADERNIF>Modules/Custom Civilizations/Pirates/Flavor/hunter/swordsman.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>1.0</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_PIRATES_BIG_GAME_HUNTER</Type>
+			<Button>Art/Interface/Buttons/Units/sparth/swordsman.dds</Button>
+			<fScale>0.34</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<NIF>Modules/Custom Civilizations/Pirates/Flavor/Buccaneer/captain.nif</NIF>
+			<KFM>Modules/Custom Civilizations/Pirates/Flavor/Buccaneer/captain.kfm</KFM>
+			<SHADERNIF>Modules/Custom Civilizations/Pirates/Flavor/Buccaneer/captain_fx.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>1.0</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_PIRATES_LIGHT_SWORDSMAN</Type>
+			<Button>Modules/Custom Civilizations/Pirates/Flavor/swordsman/swordsman.dds</Button>
+			<fScale>0.44</fScale>						<fInterfaceScale>1.0</fInterfaceScale>
+			<NIF>Modules/Custom Civilizations/Pirates/Flavor/bellybowman/swordsman.nif</NIF>
+			<KFM>Art/Units/swordsman/swordsman.kfm</KFM>
+			<SHADERNIF>Modules/Custom Civilizations/Pirates/Flavor/bellybowman/swordsman.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>1.0</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<bActAsRanged>1</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_PIRATES_LONGBOWMAN</Type>
+			<Button>Modules/Custom Civilizations/Pirates/Flavor/longbowman/longbowman.dds</Button>
+			<fScale>0.44</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<NIF>Modules/Custom Civilizations/Pirates/Flavor/longbowman/longbowman.nif</NIF>
+			<KFM>Art/Units/longbowman/longbowman.kfm</KFM>
+			<SHADERNIF>Modules/Custom Civilizations/Pirates/Flavor/longbowman/longbowman.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>0.9</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<bActAsRanged>0</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop/>
+				<AudioRunTypeEnd/>
+			</AudioRunSounds>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_PIRATES_MACEMAN</Type>
+			<Button>Modules/Custom Civilizations/Pirates/Flavor/maceman/ranger.dds</Button>
+			<fScale>0.44</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<NIF>Modules/Custom Civilizations/Pirates/Flavor/maceman/Maceman.nif</NIF>
+			<KFM>Art/Units/Maceman/Maceman.kfm</KFM>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>0.9</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<bActAsRanged>0</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop/>
+				<AudioRunTypeEnd/>
+			</AudioRunSounds>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_PIRATES_MASTER_GAME_HUNTER</Type>
+			<Button>Art/Interface/Buttons/Units/sparth/swordsman.dds</Button>
+			<fScale>0.44</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<NIF>Modules/Custom Civilizations/Pirates/Flavor/Buccaneer/captain.nif</NIF>
+			<KFM>Modules/Custom Civilizations/Pirates/Flavor/Buccaneer/captain.kfm</KFM>
+			<SHADERNIF>Modules/Custom Civilizations/Pirates/Flavor/Buccaneer/captain_fx.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>1.0</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_PIRATES_MASTER_BIG_GAME_HUNTER</Type>
+			<Button>Art/Interface/Buttons/Units/sparth/swordsman.dds</Button>
+			<fScale>0.54</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<NIF>Modules/Custom Civilizations/Pirates/Flavor/Buccaneer/captain.nif</NIF>
+			<KFM>Modules/Custom Civilizations/Pirates/Flavor/Buccaneer/captain.kfm</KFM>
+			<SHADERNIF>Modules/Custom Civilizations/Pirates/Flavor/Buccaneer/captain_fx.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>1.0</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_PIRATES_MUSKETMAN</Type>
+			<Button>Modules/Custom Civilizations/Pirates/Flavor/musketman/arquebus.dds</Button>
+			<fScale>0.44</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<NIF>Modules/Custom Civilizations/Pirates/Flavor/musketman/musketman.nif</NIF>
+			<KFM>Art/Units/musketman/musketman.kfm</KFM>
+			<SHADERNIF>Modules/Custom Civilizations/Pirates/Flavor/musketman/musketman.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>1.0</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.05</fRangedDeathTime>
+			<bActAsRanged>1</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIQUE_UNIT</TrainSound>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_PIRATES_PIKEMAN</Type>
+			<Button>Modules/Custom Civilizations/Pirates/Flavor/pikeman/pikeman.dds</Button>
+			<fScale>0.44</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<NIF>Modules/Custom Civilizations/Pirates/Flavor/pikeman/maceman.nif</NIF>
+			<KFM>Art/Units/maceman/maceman.kfm</KFM>
+			<SHADERNIF>Modules/Custom Civilizations/Pirates/Flavor/pikeman/maceman.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>0.9</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<bActAsRanged>0</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop/>
+				<AudioRunTypeEnd/>
+			</AudioRunSounds>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_PIRATES_PIRATE_SHIP</Type>
+			<Button>Modules/Custom Civilizations/Pirates/Flavor/Pirate_Ship/pirateship.dds</Button>
+			<fScale>0.22</fScale>
+			<fInterfaceScale>0.5</fInterfaceScale>
+			<NIF>Modules/Custom Civilizations/Pirates/Flavor/Pirate_Ship/GhostShip.nif</NIF>
+			<KFM>Art/Units/Galleon/Galleon.kfm</KFM>
+			<SHADERNIF>Modules/Custom Civilizations/Pirates/Flavor/Pirate_Ship/GhostShip_FX.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/GalleonShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>1.0</fShadowScale>
+			</ShadowDef>
+			<iDamageStates>4</iDamageStates>
+			<TrailDefinition>
+				<Texture>Art/Shared/water_ship_wake.dds</Texture>
+				<fWidth>1</fWidth>
+				<fLength>180.0</fLength>
+				<fTaper>1</fTaper>
+				<fFadeStartTime>.2</fFadeStartTime>
+				<fFadeFalloff>0.35</fFadeFalloff>
+			</TrailDefinition>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<bSmoothMove>1</bSmoothMove>
+			<fAngleInterpRate>720.0</fAngleInterpRate>
+			<fExchangeAngle>25.0</fExchangeAngle>
+			<bActAsRanged>0</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop>LOOPSTEP_OCEAN2</AudioRunTypeLoop>
+				<AudioRunTypeEnd>ENDSTEP_OCEAN2</AudioRunTypeEnd>
+			</AudioRunSounds>
+			<SelectionSound>AS3D_UN_OCEAN_END1</SelectionSound>
+			<ActionSound>AS3D_UN_OCEAN_END1</ActionSound>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_PIRATES_RANGER</Type>
+			<Button>Modules/Custom Civilizations/Pirates/Flavor/hunter/hunter.dds</Button>
+			<fScale>0.44</fScale>
+			<fInterfaceScale>0.9</fInterfaceScale>
+			<NIF>Modules/Custom Civilizations/Pirates/Flavor/hunter/swordsman.nif</NIF>
+			<KFM>Art/Units/swordsman/swordsman.kfm</KFM>
+			<SHADERNIF>Modules/Custom Civilizations/Pirates/Flavor/hunter/swordsman.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>1.0</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_PIRATES_RIFLEMAN</Type>
+			<Button>Modules/Custom Civilizations/Pirates/Flavor/musketman/arquebus.dds</Button>
+			<fScale>0.44</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<NIF>Modules/Custom Civilizations/Pirates/Flavor/Rifleman/cubmu.nif</NIF>
+			<KFM>Art/Units/musketman/musketman.kfm</KFM>
+			<SHADERNIF>Modules/Custom Civilizations/Pirates/Flavor/Rifleman/cubmu.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>1.0</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.05</fRangedDeathTime>
+			<bActAsRanged>1</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIQUE_UNIT</TrainSound>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_PIRATES_SETTLER_MALE</Type>
+			<Button>Modules/Custom Civilizations/Pirates/Flavor/Settler/settler_male.dds</Button>
+			<fScale>0.39</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<NIF>Modules/Custom Civilizations/Pirates/Flavor/Settler/Settler_Male.nif</NIF>
+			<KFM>Art/Units/Settler/Settler_Male.kfm</KFM>
+			<SHADERNIF>Modules/Custom Civilizations/Pirates/Flavor/Settler/Settler_Male.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>1.0</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<bActAsRanged>0</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop/>
+				<AudioRunTypeEnd/>
+			</AudioRunSounds>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_PIRATES_SETTLER_FEMALE</Type>
+			<Button>Art/Interface/Buttons/Units/sparth/settler.dds</Button>
+			<fScale>0.39</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<NIF>Modules/Custom Civilizations/Pirates/Flavor/Settler/settler_female.nif</NIF>
+			<KFM>Art/Units/Settler/Settler_Female.kfm</KFM>
+			<SHADERNIF>Modules/Custom Civilizations/Pirates/Flavor/Settler/settler_female.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>0.9</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<bActAsRanged>0</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop/>
+				<AudioRunTypeEnd/>
+			</AudioRunSounds>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_PIRATES_SETTLER_CHILD</Type>
+			<Button>Art/Interface/Buttons/Units/sparth/settler.dds</Button>
+			<fScale>0.40</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<NIF>Modules/Custom Civilizations/Pirates/Flavor/Settler/Settler_Child.nif</NIF>
+			<KFM>Art/Units/Settler/Settler_Child.kfm</KFM>
+			<SHADERNIF>Modules/Custom Civilizations/Pirates/Flavor/Settler/Settler_Child.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>0.7</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<bCombatExempt>1</bCombatExempt>
+			<bActAsRanged>0</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop/>
+				<AudioRunTypeEnd/>
+			</AudioRunSounds>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_PIRATES_SKIRMISHER</Type>
+			<Button>Art/Interface/Buttons/Units/sparth/skirmisher.dds</Button>
+			<fScale>0.44</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<NIF>Modules/Custom Civilizations/Pirates/Flavor/skirmisher/swordsman.nif</NIF>
+			<KFM>Art/Units/swordsman/swordsman.kfm</KFM>
+			<SHADERNIF>Modules/Custom Civilizations/Pirates/Flavor/skirmisher/swordsman_fx.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>1.0</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<bActAsRanged>1</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_PIRATES_SPEARMAN</Type>
+			<Button>Art/Interface/Buttons/Units/sparth/spearman.dds</Button>
+			<fScale>0.54</fScale>
+			<fInterfaceScale>1</fInterfaceScale>
+			<NIF>Modules/Custom Civilizations/Pirates/Flavor/spearman/Spearman.nif</NIF>
+			<KFM>Art/Units/Spearman/Spearman.kfm</KFM>
+			<SHADERNIF>Modules/Custom Civilizations/Pirates/Flavor/spearman/Spearman.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>1</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<bActAsRanged>0</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop/>
+				<AudioRunTypeEnd/>
+			</AudioRunSounds>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_PIRATES_SWORDSMAN</Type>
+			<Button>Modules/Custom Civilizations/Pirates/Flavor/swordsman/swordsman.dds</Button>
+			<fScale>0.44</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<NIF>Modules/Custom Civilizations/Pirates/Flavor/swordsman/explorer.nif</NIF>
+			<KFM>Art/Units/explorer/explorer.kfm</KFM>
+			<SHADERNIF>Modules/Custom Civilizations/Pirates/Flavor/swordsman/explorer.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>0.9</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<bActAsRanged>0</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop/>
+				<AudioRunTypeEnd/>
+			</AudioRunSounds>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_PIRATES_TRACKER</Type>
+			<Button>Modules/Custom Civilizations/Pirates/Flavor/tracker/berserker.dds</Button>
+			<fScale>0.44</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<NIF>Modules/Custom Civilizations/Pirates/Flavor/tracker/swordsman.nif</NIF>
+			<KFM>Art/Units/swordsman/swordsman.kfm</KFM>
+			<SHADERNIF>Modules/Custom Civilizations/Pirates/Flavor/tracker/swordsman.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>0.9</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<bActAsRanged>0</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop/>
+				<AudioRunTypeEnd/>
+			</AudioRunSounds>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_PIRATES_MASTER_TRACKER</Type>
+			<Button>Modules/Custom Civilizations/Pirates/Flavor/tracker/berserker.dds</Button>
+			<fScale>0.54</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<NIF>Modules/Custom Civilizations/Pirates/Flavor/trench_infantry/explorer.nif</NIF>
+			<KFM>Art/Units/explorer/explorer.kfm</KFM>
+			<SHADERNIF>Modules/Custom Civilizations/Pirates/Flavor/trench_infantry/explorer.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>1.0</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.05</fRangedDeathTime>
+			<bActAsRanged>1</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_PIRATES_TRENCH_INFANTRY</Type>
+			<Button>Modules/Custom Civilizations/Pirates/Flavor/trench_infantry/trench.dds</Button>
+			<fScale>0.44</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<NIF>Modules/Custom Civilizations/Pirates/Flavor/trench_infantry/explorer.nif</NIF>
+			<KFM>Art/Units/explorer/explorer.kfm</KFM>
+			<SHADERNIF>Modules/Custom Civilizations/Pirates/Flavor/trench_infantry/explorer.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>1.0</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.05</fRangedDeathTime>
+			<bActAsRanged>1</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_PIRATES_WARDEN</Type>
+			<Button>Modules/Custom Civilizations/Pirates/Flavor/hunter/hunter.dds</Button>
+			<fScale>0.44</fScale>
+			<fInterfaceScale>0.9</fInterfaceScale>
+			<NIF>Modules/Custom Civilizations/Pirates/Flavor/hunter/swordsman.nif</NIF>
+			<KFM>Art/Units/swordsman/swordsman.kfm</KFM>
+			<SHADERNIF>Modules/Custom Civilizations/Pirates/Flavor/hunter/swordsman.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>1.0</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_PIRATES_WAR_ELEPHANT</Type>
+			<Button>,Art/Interface/Buttons/Units/WarElephant.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,7,2</Button>
+			<fScale>0.32</fScale>
+			<fInterfaceScale>0.6</fInterfaceScale>
+			<NIF>Modules/Custom Civilizations/Pirates/Flavor/war_elephant/warelephant.nif</NIF>
+			<KFM>Art/Units/WarElephant/WarElephant.kfm</KFM>
+			<SHADERNIF>Modules/Custom Civilizations/Pirates/Flavor/war_elephant/warelephant.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/WarElephantShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>1.0</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.45</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_PIRATES_WOODEN_SPEARMAN</Type>
+			<Button>Art/Interface/Buttons/Units/sparth/wooden_spearman.dds</Button>
+			<fScale>0.44</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<NIF>Modules/Custom Civilizations/Pirates/Flavor/Buccaneer/pirate_cutlass/pikeman.nif</NIF>
+			<KFM>Art/Units/pikeman/pikeman.kfm</KFM>
+			<SHADERNIF>Modules/Custom Civilizations/Pirates/Flavor/Buccaneer/pirate_cutlass/pikeman.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>1.0</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_PIRATES_WORKER</Type>
+			<Button>Modules/Custom Civilizations/Pirates/Flavor/worker/worker.dds</Button>
+			<fScale>0.44</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<NIF>Modules/Custom Civilizations/Pirates/Flavor/worker/worker.nif</NIF>
+			<KFM>Art/Units/worker/worker.kfm</KFM>
+			<SHADERNIF>Modules/Custom Civilizations/Pirates/Flavor/worker/worker.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>0.9</fShadowScale>
+			</ShadowDef>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<bActAsRanged>0</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop/>
+				<AudioRunTypeEnd/>
+			</AudioRunSounds>
+		</UnitArtInfo>
+	</UnitArtInfos>
+</Civ4ArtDefines>

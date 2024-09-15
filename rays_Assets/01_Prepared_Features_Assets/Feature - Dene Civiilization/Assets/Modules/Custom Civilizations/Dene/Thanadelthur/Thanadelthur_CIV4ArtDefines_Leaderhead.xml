@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Thanadelthur_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_THANADELTHUR</Type>
+			<Button>Modules/Custom Civilizations/Dene/Thanadelthur/but.dds</Button>
+			<NIF>Modules/Custom Civilizations/Dene/Thanadelthur/lh.dds</NIF>
+			<KFM/>
+			<NoShaderNIF/>
+			<BackgroundKFM/>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

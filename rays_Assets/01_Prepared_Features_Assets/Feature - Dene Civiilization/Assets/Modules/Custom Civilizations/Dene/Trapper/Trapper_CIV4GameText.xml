@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_DENE_TRAPPER</Tag>
+		<English>Trapper</English>
+		<French>Trapper</French>
+		<German>Trapper</German>
+		<Italian>Trapper</Italian>
+		<Spanish>Trapper</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_DENE_TRAPPER_STRATEGY</Tag>
+		<English>The [COLOR_UNIT_TEXT]Trapper[COLOR_REVERT] (the Dene replacement for the [COLOR_UNIT_TEXT]Scout[COLOR_REVERT]) are expert hunters and receive a combat bonus against animals.</English>
+		<French>The [COLOR_UNIT_TEXT]Trapper[COLOR_REVERT] (the Dene replacement for the [COLOR_UNIT_TEXT]Scout[COLOR_REVERT]) are expert hunters and receive a combat bonus against animals.</French>
+		<German>The [COLOR_UNIT_TEXT]Trapper[COLOR_REVERT] (the Dene replacement for the [COLOR_UNIT_TEXT]Scout[COLOR_REVERT]) are expert hunters and receive a combat bonus against animals.</German>
+		<Italian>The [COLOR_UNIT_TEXT]Trapper[COLOR_REVERT] (the Dene replacement for the [COLOR_UNIT_TEXT]Scout[COLOR_REVERT]) are expert hunters and receive a combat bonus against animals.</Italian>
+		<Spanish>The [COLOR_UNIT_TEXT]Trapper[COLOR_REVERT] (the Dene replacement for the [COLOR_UNIT_TEXT]Scout[COLOR_REVERT]) are expert hunters and receive a combat bonus against animals.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_DENE_TRAPPER_PEDIA</Tag>
+		<English>[TAB]The Dene have lived for centuries in some of the harshes climates on earth. Their survival is due in large part to their skill at hunting and trapping animals in the rugged Canadian North. Known as experts trappers, the Dene way of life includes meat and materials from caribou and moose.</English>
+		<French>[TAB]The Dene have lived for centuries in some of the harshes climates on earth. Their survival is due in large part to their skill at hunting and trapping animals in the rugged Canadian North. Known as experts trappers, the Dene way of life includes meat and materials from caribou and moose.</French>
+		<German>[TAB]The Dene have lived for centuries in some of the harshes climates on earth. Their survival is due in large part to their skill at hunting and trapping animals in the rugged Canadian North. Known as experts trappers, the Dene way of life includes meat and materials from caribou and moose.</German>
+		<Italian>[TAB]The Dene have lived for centuries in some of the harshes climates on earth. Their survival is due in large part to their skill at hunting and trapping animals in the rugged Canadian North. Known as experts trappers, the Dene way of life includes meat and materials from caribou and moose.</Italian>
+		<Spanish>[TAB]The Dene have lived for centuries in some of the harshes climates on earth. Their survival is due in large part to their skill at hunting and trapping animals in the rugged Canadian North. Known as experts trappers, the Dene way of life includes meat and materials from caribou and moose.</Spanish>
+	</TEXT>
+</Civ4GameText>	

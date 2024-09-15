@@ -1,0 +1,2 @@
+            <NIF>Art/Units/Settler/Railroad_Worker/Hardy_pioneer.nif</NIF>
+            <KFM>Art/Units/Settler/Railroad_Worker/Hardy_pioneer.kfm</KFM>

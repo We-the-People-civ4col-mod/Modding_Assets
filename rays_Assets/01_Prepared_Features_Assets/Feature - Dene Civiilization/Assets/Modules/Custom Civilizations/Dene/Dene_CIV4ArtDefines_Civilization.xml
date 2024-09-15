@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4ArtDefines xmlns="x-schema:Dene_CIV4ArtDefinesSchema.xml">
+	<CivilizationArtInfos>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_DENE</Type>
+			<Button>Modules/Custom Civilizations/Dene/Dene.dds</Button>
+			<Path>Modules/Custom Civilizations/Dene/FlagDECAL_Dene.dds</Path>
+			<bWhiteFlag>0</bWhiteFlag>
+		</CivilizationArtInfo>
+	</CivilizationArtInfos>
+</Civ4ArtDefines>

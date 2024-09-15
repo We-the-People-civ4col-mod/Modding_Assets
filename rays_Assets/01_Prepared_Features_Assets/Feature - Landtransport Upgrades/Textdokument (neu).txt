@@ -1,0 +1,13 @@
+UNIT_OXCART
+simply replace
+           <UnitClassUpgrades/>
+with
+            <UnitClassUpgrades>
+                <UnitClassUpgrade>
+                    <UnitClassUpgradeType>UNITCLASS_WAGON_TRAIN</UnitClassUpgradeType>
+                    <bUnitClassUpgrade>1</bUnitClassUpgrade>
+                </UnitClassUpgrade>
+            </UnitClassUpgrades>
+
+Problem:
+Ugly Button displayed.

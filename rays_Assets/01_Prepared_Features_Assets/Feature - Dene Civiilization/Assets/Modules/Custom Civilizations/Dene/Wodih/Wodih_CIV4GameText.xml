@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DENE_WODIH</Tag>
+		<English>Wodih</English>
+		<French>Wodih</French>
+		<German>Wodih</German>
+		<Italian>Wodih</Italian>
+		<Spanish>Wodih</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DENE_WODIH_PEDIA</Tag>
+		<English>[TAB]Storytelling is central to the preservation of Dene culture, and to ensuring that the people preserve their traditions while learning from past mistakes. Almost any extended speech act in Dene is classified as a wodih. Wodih are used to influence an audience by establshing a common base of belief, by sharing the experiences of others, and by suggesting what will happen in the future. All traditional stories are called "tonht' onh wodihe" - "stories of long ago."</English>
+		<French>[TAB]Storytelling is central to the preservation of Dene culture, and to ensuring that the people preserve their traditions while learning from past mistakes. Almost any extended speech act in Dene is classified as a wodih. Wodih are used to influence an audience by establshing a common base of belief, by sharing the experiences of others, and by suggesting what will happen in the future. All traditional stories are called "tonht' onh wodihe" - "stories of long ago."</French>
+		<German>[TAB]Storytelling is central to the preservation of Dene culture, and to ensuring that the people preserve their traditions while learning from past mistakes. Almost any extended speech act in Dene is classified as a wodih. Wodih are used to influence an audience by establshing a common base of belief, by sharing the experiences of others, and by suggesting what will happen in the future. All traditional stories are called "tonht' onh wodihe" - "stories of long ago."</German>
+		<Italian>[TAB]Storytelling is central to the preservation of Dene culture, and to ensuring that the people preserve their traditions while learning from past mistakes. Almost any extended speech act in Dene is classified as a wodih. Wodih are used to influence an audience by establshing a common base of belief, by sharing the experiences of others, and by suggesting what will happen in the future. All traditional stories are called "tonht' onh wodihe" - "stories of long ago."</Italian>
+		<Spanish>[TAB]Storytelling is central to the preservation of Dene culture, and to ensuring that the people preserve their traditions while learning from past mistakes. Almost any extended speech act in Dene is classified as a wodih. Wodih are used to influence an audience by establshing a common base of belief, by sharing the experiences of others, and by suggesting what will happen in the future. All traditional stories are called "tonht' onh wodihe" - "stories of long ago."</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DENE_WODIH_STRATEGY</Tag>
+		<English>The Dene replacement for the [COLOR_BUILDING_TEXT]Library[COLOR_REVERT] is the [COLOR_BUILDING_TEXT]Wodih[COLOR_REVERT]. While it offers no benefit over the standard library, it becomes available earlier with the discovery of Mysticism.</English>
+		<French>The Dene replacement for the [COLOR_BUILDING_TEXT]Library[COLOR_REVERT] is the [COLOR_BUILDING_TEXT]Wodih[COLOR_REVERT]. While it offers no benefit over the standard library, it becomes available earlier with the discovery of Mysticism.</French>
+		<German>The Dene replacement for the [COLOR_BUILDING_TEXT]Library[COLOR_REVERT] is the [COLOR_BUILDING_TEXT]Wodih[COLOR_REVERT]. While it offers no benefit over the standard library, it becomes available earlier with the discovery of Mysticism.</German>
+		<Italian>The Dene replacement for the [COLOR_BUILDING_TEXT]Library[COLOR_REVERT] is the [COLOR_BUILDING_TEXT]Wodih[COLOR_REVERT]. While it offers no benefit over the standard library, it becomes available earlier with the discovery of Mysticism.</Italian>
+		<Spanish>The Dene replacement for the [COLOR_BUILDING_TEXT]Library[COLOR_REVERT] is the [COLOR_BUILDING_TEXT]Wodih[COLOR_REVERT]. While it offers no benefit over the standard library, it becomes available earlier with the discovery of Mysticism.</Spanish>
+	</TEXT>
+</Civ4GameText>

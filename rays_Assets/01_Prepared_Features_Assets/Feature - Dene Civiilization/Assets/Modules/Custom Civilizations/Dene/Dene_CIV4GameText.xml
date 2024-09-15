@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the Civ Gold Team -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_CIV_DENE_DESC</Tag>
+		<English>Dene Empire</English>
+		<French>
+			<Text>Dene Empire</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Dene Empire</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Dene Empire</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Dene Empire</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_DENE_SHORT_DESC</Tag>
+		<English>Dene</English>
+		<French>
+			<Text>Dene</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Dene</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Dene</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Dene</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_DENE_PEDIA</Tag>
+		<English>[TAB]The Dene (Dené) are an aboriginal group of First Nations who live in the northern boreal and Arctic regions of Canada. Dene is a compound of two words: De means "flow" and Ne meaning "Mother Earth". Dene are spread through a wide region. They live in the Mackenzie Valley (south of the Inuvialuit), and can be found west of Nunavut. Their homeland reaches to western Yukon, and the northern part of British Columbia, Alberta, Saskatchewan, Manitoba, Alaska and the lower United States.[PARAGRAPH:2]The Dene are a people of the boreal forest and great northern rivers. In the past, they travelled by birchbark or sprucebark canoe. Some built mooseskin boats. The Dene still use the rivers as highways,in both winter and summer. They rely on moose, caribou (both woodland and barrenground), black bear, geese, ducks, grouse, ptarmigan, beaver, smaller game and fish.[PARAGRAPH:2]Traditionally, the Dene were accomplished hunters who travelled as far north as the Arctic coast on snowshoes. They packed everything they needed to survive on their backs and hunted with snares. They even hunted caribou with snares and brush traps. The Dene used dogs as pack animals, but did not use dogsleds until after the coming of the Europeans. They lived in skin tents, constructed of hides over a framework of poles. The Nahanni and Slavey people often built log huts in winter. Some people built semi-subterranean houses of sod and logs.[PARAGRAPH:2]The Dene lived in extended family groups, travelling over traditional routes within their hunting land. Groups frequently met at customary sites, brought together by fish spawning or the movements of caribou or gathering of geese or ducks. When they met, the occasion was celebrated by feasting, dancing and drumming. The caribou skin drum has become a symbol of the Dene and is still used in many ceremonies.[PARAGRAPH:2]The Dené speak Northern Athabaskan languages (Northwestern Canada group) of the Na-Dené language family. The Dené have a linguistic relative in the US: the Diné (Navajo), who speak Southern Athabaskan.</English>
+		<French>[TAB]The Dene (Dené) are an aboriginal group of First Nations who live in the northern boreal and Arctic regions of Canada. Dene is a compound of two words: De means "flow" and Ne meaning "Mother Earth". Dene are spread through a wide region. They live in the Mackenzie Valley (south of the Inuvialuit), and can be found west of Nunavut. Their homeland reaches to western Yukon, and the northern part of British Columbia, Alberta, Saskatchewan, Manitoba, Alaska and the lower United States.[PARAGRAPH:2]The Dene are a people of the boreal forest and great northern rivers. In the past, they travelled by birchbark or sprucebark canoe. Some built mooseskin boats. The Dene still use the rivers as highways,in both winter and summer. They rely on moose, caribou (both woodland and barrenground), black bear, geese, ducks, grouse, ptarmigan, beaver, smaller game and fish.[PARAGRAPH:2]Traditionally, the Dene were accomplished hunters who travelled as far north as the Arctic coast on snowshoes. They packed everything they needed to survive on their backs and hunted with snares. They even hunted caribou with snares and brush traps. The Dene used dogs as pack animals, but did not use dogsleds until after the coming of the Europeans. They lived in skin tents, constructed of hides over a framework of poles. The Nahanni and Slavey people often built log huts in winter. Some people built semi-subterranean houses of sod and logs.[PARAGRAPH:2]The Dene lived in extended family groups, travelling over traditional routes within their hunting land. Groups frequently met at customary sites, brought together by fish spawning or the movements of caribou or gathering of geese or ducks. When they met, the occasion was celebrated by feasting, dancing and drumming. The caribou skin drum has become a symbol of the Dene and is still used in many ceremonies.[PARAGRAPH:2]The Dené speak Northern Athabaskan languages (Northwestern Canada group) of the Na-Dené language family. The Dené have a linguistic relative in the US: the Diné (Navajo), who speak Southern Athabaskan.</French>
+		<German>[TAB]The Dene (Dené) are an aboriginal group of First Nations who live in the northern boreal and Arctic regions of Canada. Dene is a compound of two words: De means "flow" and Ne meaning "Mother Earth". Dene are spread through a wide region. They live in the Mackenzie Valley (south of the Inuvialuit), and can be found west of Nunavut. Their homeland reaches to western Yukon, and the northern part of British Columbia, Alberta, Saskatchewan, Manitoba, Alaska and the lower United States.[PARAGRAPH:2]The Dene are a people of the boreal forest and great northern rivers. In the past, they travelled by birchbark or sprucebark canoe. Some built mooseskin boats. The Dene still use the rivers as highways,in both winter and summer. They rely on moose, caribou (both woodland and barrenground), black bear, geese, ducks, grouse, ptarmigan, beaver, smaller game and fish.[PARAGRAPH:2]Traditionally, the Dene were accomplished hunters who travelled as far north as the Arctic coast on snowshoes. They packed everything they needed to survive on their backs and hunted with snares. They even hunted caribou with snares and brush traps. The Dene used dogs as pack animals, but did not use dogsleds until after the coming of the Europeans. They lived in skin tents, constructed of hides over a framework of poles. The Nahanni and Slavey people often built log huts in winter. Some people built semi-subterranean houses of sod and logs.[PARAGRAPH:2]The Dene lived in extended family groups, travelling over traditional routes within their hunting land. Groups frequently met at customary sites, brought together by fish spawning or the movements of caribou or gathering of geese or ducks. When they met, the occasion was celebrated by feasting, dancing and drumming. The caribou skin drum has become a symbol of the Dene and is still used in many ceremonies.[PARAGRAPH:2]The Dené speak Northern Athabaskan languages (Northwestern Canada group) of the Na-Dené language family. The Dené have a linguistic relative in the US: the Diné (Navajo), who speak Southern Athabaskan.</German>
+		<Italian>[TAB]The Dene (Dené) are an aboriginal group of First Nations who live in the northern boreal and Arctic regions of Canada. Dene is a compound of two words: De means "flow" and Ne meaning "Mother Earth". Dene are spread through a wide region. They live in the Mackenzie Valley (south of the Inuvialuit), and can be found west of Nunavut. Their homeland reaches to western Yukon, and the northern part of British Columbia, Alberta, Saskatchewan, Manitoba, Alaska and the lower United States.[PARAGRAPH:2]The Dene are a people of the boreal forest and great northern rivers. In the past, they travelled by birchbark or sprucebark canoe. Some built mooseskin boats. The Dene still use the rivers as highways,in both winter and summer. They rely on moose, caribou (both woodland and barrenground), black bear, geese, ducks, grouse, ptarmigan, beaver, smaller game and fish.[PARAGRAPH:2]Traditionally, the Dene were accomplished hunters who travelled as far north as the Arctic coast on snowshoes. They packed everything they needed to survive on their backs and hunted with snares. They even hunted caribou with snares and brush traps. The Dene used dogs as pack animals, but did not use dogsleds until after the coming of the Europeans. They lived in skin tents, constructed of hides over a framework of poles. The Nahanni and Slavey people often built log huts in winter. Some people built semi-subterranean houses of sod and logs.[PARAGRAPH:2]The Dene lived in extended family groups, travelling over traditional routes within their hunting land. Groups frequently met at customary sites, brought together by fish spawning or the movements of caribou or gathering of geese or ducks. When they met, the occasion was celebrated by feasting, dancing and drumming. The caribou skin drum has become a symbol of the Dene and is still used in many ceremonies.[PARAGRAPH:2]The Dené speak Northern Athabaskan languages (Northwestern Canada group) of the Na-Dené language family. The Dené have a linguistic relative in the US: the Diné (Navajo), who speak Southern Athabaskan.</Italian>
+		<Spanish>[TAB]The Dene (Dené) are an aboriginal group of First Nations who live in the northern boreal and Arctic regions of Canada. Dene is a compound of two words: De means "flow" and Ne meaning "Mother Earth". Dene are spread through a wide region. They live in the Mackenzie Valley (south of the Inuvialuit), and can be found west of Nunavut. Their homeland reaches to western Yukon, and the northern part of British Columbia, Alberta, Saskatchewan, Manitoba, Alaska and the lower United States.[PARAGRAPH:2]The Dene are a people of the boreal forest and great northern rivers. In the past, they travelled by birchbark or sprucebark canoe. Some built mooseskin boats. The Dene still use the rivers as highways,in both winter and summer. They rely on moose, caribou (both woodland and barrenground), black bear, geese, ducks, grouse, ptarmigan, beaver, smaller game and fish.[PARAGRAPH:2]Traditionally, the Dene were accomplished hunters who travelled as far north as the Arctic coast on snowshoes. They packed everything they needed to survive on their backs and hunted with snares. They even hunted caribou with snares and brush traps. The Dene used dogs as pack animals, but did not use dogsleds until after the coming of the Europeans. They lived in skin tents, constructed of hides over a framework of poles. The Nahanni and Slavey people often built log huts in winter. Some people built semi-subterranean houses of sod and logs.[PARAGRAPH:2]The Dene lived in extended family groups, travelling over traditional routes within their hunting land. Groups frequently met at customary sites, brought together by fish spawning or the movements of caribou or gathering of geese or ducks. When they met, the occasion was celebrated by feasting, dancing and drumming. The caribou skin drum has become a symbol of the Dene and is still used in many ceremonies.[PARAGRAPH:2]The Dené speak Northern Athabaskan languages (Northwestern Canada group) of the Na-Dené language family. The Dené have a linguistic relative in the US: the Diné (Navajo), who speak Southern Athabaskan.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_DENE_ADJECTIVE</Tag>
+		<English>Denendeh</English>
+		<French>
+			<Text>Denendeh</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Denendeh</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Denendeh</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Denendeh</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_BEHCHOKO</Tag>
+		<English>Behchoko</English>
+		<French>
+			<Text>Behchoko</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Behchoko</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Behchoko</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Behchoko</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+		<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_LUTSEL_KE</Tag>
+		<English>Lutsel K'e</English>
+		<French>
+			<Text>Lutsel K'e</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Lutsel K'e</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Lutsel K'e</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Lutsel K'e</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_LALOCHE</Tag>
+		<English>LaLoche</English>
+		<French>
+			<Text>LaLoche</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>LaLoche</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>LaLoche</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>LaLoche</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_DELINE</Tag>
+		<English>Deline</English>
+		<French>
+			<Text>Deline</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Deline</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Deline</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Deline</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_LIIDLI_KUE</Tag>
+		<English>Liidli Kue</English>
+		<French>
+			<Text>Fort Simpson</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Fort Simpson</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Fort Simpson</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Fort Simpson</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_TULITA</Tag>
+		<English>Tulit'a</English>
+		<French>
+			<Text>Tulit'a</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Tulit'a</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Tulit'a</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Tulit'a</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_FORT_CHIPEWYAN</Tag>
+		<English>Fort Chipewyan</English>
+		<French>
+			<Text>Fort Chipewyan</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Fort Chipewyan</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Fort Chipewyan</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Fort Chipewyan</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_DETTAH</Tag>
+		<English>Dettah</English>
+		<French>
+			<Text>Dettah</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Dettah</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Dettah</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Dettah</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_WHA_TI</Tag>
+		<English>Wha Ti</English>
+		<French>
+			<Text>Wha Ti</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Wha Ti</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Wha Ti</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Wha Ti</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_JEANE_MARIE</Tag>
+		<English>Jeane Marie River</English>
+		<French>
+			<Text>Jeane Marie River</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Jeane Marie River</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Jeane Marie River</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Jeane Marie River</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_THEBACHA</Tag>
+		<English>Thebacha</English>
+		<French>
+			<Text>Fort Smith</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Fort Smith</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Fort Smith</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Fort Smith</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_RAE_EDZO</Tag>
+		<English>Rae-Edzo</English>
+		<French>
+			<Text>Rae-Edzo</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Rae-Edzo</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Rae-Edzo</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Rae-Edzo</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_NDILO</Tag>
+		<English>N'dilo</English>
+		<French>
+			<Text>N'dilo</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>N'dilo</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>N'dilo</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>N'dilo</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_TSUU_TINA</Tag>
+		<English>Tsuu T'ina</English>
+		<French>
+			<Text>Tsuu T'ina</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Tsuu T'ina</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Tsuu T'ina</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Tsuu T'ina</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_THALTSON</Tag>
+		<English>Thaltson</English>
+		<French>
+			<Text>Thaltson</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Thaltson</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Thaltson</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Thaltson</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_RADILIH_KOE</Tag>
+		<English>Radilih Koe</English>
+		<French>
+			<Text>Radilih Koe</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Radilih Koe</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Radilih Koe</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Radilih Koe</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_SNARE_LAKE</Tag>
+		<English>Snare Lake</English>
+		<French>
+			<Text>Snare Lake</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Snare Lake</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Snare Lake</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Snare Lake</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_RAE_LAKES</Tag>
+		<English>Rae Lakes</English>
+		<French>
+			<Text>Rae Lakes</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Rae Lakes</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Rae Lakes</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Rae Lakes</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_KAKISA</Tag>
+		<English>Kakisa</English>
+		<French>
+			<Text>Kakisa</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Kakisa</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Kakisa</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Kakisa</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PEHDZEH_KI</Tag>
+		<English>Pehdzeh-Ki</English>
+		<French>
+			<Text>Pehdzeh-Ki</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Pehdzeh-Ki</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Pehdzeh-Ki</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Pehdzeh-Ki</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_HAY_RIVER</Tag>
+		<English>Hay River</English>
+		<French>
+			<Text>Hay River</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Hay River</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Hay River</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Hay River</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+</Civ4GameText>
